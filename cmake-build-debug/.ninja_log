@@ -1,0 +1,22 @@
+# ninja log v6
+11	859	7434344098869506	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+859	963	7434344107351565	colour_coordination_calculator.exe	1df468fe84829a94
+11	17	7434344098233973	clean	657297461e4d84f3
+10	852	7434346014141842	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+852	956	7434346022558849	colour_coordination_calculator.exe	1df468fe84829a94
+6	819	7434357750550889	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+820	924	7434357758687785	colour_coordination_calculator.exe	1df468fe84829a94
+7	951	7434362146629663	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+952	1058	7434362156077645	colour_coordination_calculator.exe	1df468fe84829a94
+14	830	7434363499014737	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+831	934	7434363507176645	colour_coordination_calculator.exe	1df468fe84829a94
+14	811	7434364746557633	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+812	916	7434364754529381	colour_coordination_calculator.exe	1df468fe84829a94
+15	861	7434364921094281	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+861	965	7434364929551425	colour_coordination_calculator.exe	1df468fe84829a94
+6	819	7434366349344217	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+819	922	7434366357481097	colour_coordination_calculator.exe	1df468fe84829a94
+6	823	7434366706035291	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+823	926	7434366714207210	colour_coordination_calculator.exe	1df468fe84829a94
+15	846	7434371167908546	CMakeFiles/colour_coordination_calculator.dir/main.cpp.obj	e311b9cae1c9b67b
+846	951	7434371176225606	colour_coordination_calculator.exe	1df468fe84829a94
