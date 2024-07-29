@@ -200,8 +200,13 @@ Colour hexToHSV(const string& hex) {
     // scale v to percentage
     double v = cMax * 100;
 
+    // rounding
+    int roundedH = static_cast<int>(round(h));
+    int roundedS = static_cast<int>(round(s));
+    int roundedV = static_cast<int>(round(v));
 
-    return Colour(h, s, v);
+
+    return Colour(roundedH, roundedS, roundedV);
 }
 
 
@@ -273,10 +278,5 @@ void colourCoordinationTool() {
 
 int main() {
     colourCoordinationTool();
-    /*
-    Colour testColour(60, 70, 60);
-    cout << "HSV: (" << testColour.h << ", " << testColour.s << ", " << testColour.v << ")" << endl
-        << "Hex: " << testColour.toHex() << endl;
-        */
     return 0;
 }

@@ -1,7 +1,7 @@
 # Colour Coordination Tool
 
-This C++ tool helps you find colour harmonies based on either HSV (Hue, Saturation, Value) values. Input a base colour, select a colour harmony type and receive a set of coordinated colours in HSV format.
-Currently, I am working on extending this functionality to include an option for RGB Hex input and output in both HSV and RGB Hex format.
+This C++ tool helps find colour harmonies based on either HSV (Hue, Saturation, Value) or RGB Hex values. 
+Choose an input format, input a base colour, select a colour harmony type and receive a set of coordinated colours in both formats.
 
 ## Features
 
@@ -14,9 +14,14 @@ Currently, I am working on extending this functionality to include an option for
 - Tetradic: Produces two pairs of complementary colours.
 
 ### Usage
+
+#### Input Format:
+
+- Choose an input format: either HSV or RGB Hex.
+- 
 #### Input Colour:
 
-- Enter HSV so Hue (0-360), Saturation (0-100) and Value (0-100).
+- Enter the value/values.
 
 #### Select Harmony:
 
@@ -24,10 +29,7 @@ Currently, I am working on extending this functionality to include an option for
 
 #### Get Results:
 
-- The tool will output the coordinated colours in HSV format.
-
-### Development
-- Extending this functionality to include an RGB Hex input option and output in both HSV and RGB Hex format. Hex output is working but hex input not yet.
+- The tool will output the coordinated colours in HSV and RGB Hex format.
 
 ### Original Inspiration
 This tool is inspired by the Sessions Colour Calculator. 
@@ -35,4 +37,4 @@ However, while the Sessions Colour Calculator provides a good approach, it opera
 To address these differences and better align with the specific needs of HSV color calculations, I decided to build a custom solution.
 
 ### Example
-![screenshot1.png](screenshot1.png)
+![screenshot.png](screenshot.png)
